@@ -1,4 +1,4 @@
-#EXTM3U
+#EXTM3U x-tvg-url="https://live.fanmingming.com/e.xml"
 #EXTINF: -1,CCTV1-HD
 http://192.168.1.1:4022/rtp/239.49.8.19:9614
 #EXTINF: -1,CCTV2-HD
