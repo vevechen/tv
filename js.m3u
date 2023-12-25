@@ -49,7 +49,7 @@ http://[2409:8087:7001:20:2::3]:80/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3
 http://[2409:8087:7001:20:2::3]:80/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226462/1.m3u8
 #EXTINF:-1 tvg-id="CHC高清电影" tvg-name="CHC高清电影" tvg-logo="https://live.fanmingming.com/tv/CHC高清电影.png" group-title="CHC",CHC高清电影
 http://[2409:8087:7001:20:2::3]:80/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226463/1.m3u8
-#EXTINF: -1,江苏卫视HD,group-title="江苏组播"
+#EXTINF: -1,group-title="江苏组播",江苏卫视HD
 http://192.168.1.1:4022/rtp/239.49.8.16:9602
 #EXTINF: -1,江苏城市HD,group-title="江苏组播"
 http://192.168.1.1:4022/rtp/239.49.8.107:8000
