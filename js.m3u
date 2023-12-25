@@ -49,53 +49,53 @@ http://[2409:8087:7001:20:2::3]:80/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3
 http://[2409:8087:7001:20:2::3]:80/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226462/1.m3u8
 #EXTINF:-1 tvg-id="CHC高清电影" tvg-name="CHC高清电影" tvg-logo="https://live.fanmingming.com/tv/CHC高清电影.png" group-title="CHC",CHC高清电影
 http://[2409:8087:7001:20:2::3]:80/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226463/1.m3u8
-#EXTINF: -1,江苏卫视HD
+#EXTINF: -1,江苏卫视HD group-title="江苏组播"
 http://192.168.1.1:4022/rtp/239.49.8.16:9602
-#EXTINF: -1,江苏城市HD
+#EXTINF: -1,江苏城市HD group-title="江苏组播"
 http://192.168.1.1:4022/rtp/239.49.8.107:8000
-#EXTINF: -1,江苏综艺HD
+#EXTINF: -1,江苏综艺HD group-title="江苏组播"
 http://192.168.1.1:4022/rtp/239.49.8.108:8000
-#EXTINF: -1,江苏体育休闲HD
+#EXTINF: -1,江苏体育休闲HD,group-title="江苏组播"
 http://192.168.1.1:4022/rtp/239.49.8.117:8000
-#EXTINF: -1,江苏影视HD
+#EXTINF: -1,江苏影视HD,group-title="江苏组播"
 http://192.168.1.1:4022/rtp/239.49.8.118:8000
-#EXTINF: -1,优漫卡通HD
+#EXTINF: -1,优漫卡通HD,group-title="江苏组播"
 http://192.168.1.1:4022/rtp/239.49.8.119:8000
-#EXTINF: -1,江苏公共新闻HD
+#EXTINF: -1,江苏公共新闻HD,group-title="江苏组播"
 http://192.168.1.1:4022/rtp/239.49.8.120:8000
-#EXTINF: -1,江苏国际
+#EXTINF: -1,江苏国际,group-title="江苏组播"
 http://192.168.1.1:4022/rtp/239.49.0.22:8168
-#EXTINF: -1,江苏教育HD
+#EXTINF: -1,江苏教育HD,group-title="江苏组播"
 http://192.168.1.1:4022/rtp/239.49.8.122:8000
-#EXTINF: -1,南京生活
+#EXTINF: -1,南京生活,group-title="南京组播"
 http://192.168.1.1:4022/rtp/239.49.0.184:9438
-#EXTINF: -1,南京生活2
+#EXTINF: -1,南京生活2,group-title="南京组播"
 http://live.nbs.cn/channels/njtv/shpd/nbs06.m3u8
-#EXTINF: -1,南京教科
+#EXTINF: -1,南京教科,group-title="南京组播"
 http://192.168.1.1:4022/rtp/239.49.0.183:9434
-#EXTINF: -1,南京教科2
+#EXTINF: -1,南京教科2,group-title="南京组播"
 http://live.nbs.cn/channels/njtv/jkpd/nbs06.m3u8
-#EXTINF: -1,十八频道
+#EXTINF: -1,十八频道,group-title="南京组播"
 http://192.168.1.1:4022/rtp/239.49.0.26:8200
-#EXTINF: -1,十八频道2
+#EXTINF: -1,十八频道2,group-title="南京组播"
 http://live.nbs.cn/channels/njtv/sbpd/500k.m3u8
-#EXTINF: -1,新闻综合
+#EXTINF: -1,新闻综合,group-title="南京组播"
 http://192.168.1.1:4022/rtp/239.49.0.25:8192
-#EXTINF: -1,新闻综合2
+#EXTINF: -1,新闻综合2,group-title="南京组播"
 http://live.nbs.cn/channels/njtv/xwzh/nbs06.m3u8
-#EXTINF: -1,南京影视
+#EXTINF: -1,南京影视,group-title="南京组播"
 http://192.168.1.1:4022/rtp/239.49.0.24:8000
-#EXTINF: -1,南京娱乐
+#EXTINF: -1,南京娱乐,group-title="南京组播"
 http://192.168.1.1:4022/rtp/239.49.0.38:8000
-#EXTINF: -1,南京娱乐2
+#EXTINF: -1,南京娱乐2,group-title="南京组播"
 http://live.nbs.cn/channels/njtv/ylpd/500k.m3u8
-#EXTINF: -1,南京信息
+#EXTINF: -1,南京信息,group-title="南京组播"
 http://192.168.1.1:4022/rtp/239.49.0.75:8000
-#EXTINF: -1,南京少儿
+#EXTINF: -1,南京少儿,group-title="南京组播"
 http://192.168.1.1:4022/rtp/239.49.0.45:8000
 #EXTINF: -1,财富天下
 http://192.168.1.1:4022/rtp/239.49.0.166:9322
-#EXTINF: -1,东方卫视HD
+#EXTINF: -1,东方卫视HD,group-title="地方卫视"
 http://192.168.1.1:4022/rtp/239.49.8.17:9606
 #EXTINF: -1,北京卫视HD
 http://192.168.1.1:4022/rtp/239.49.8.11:9414
