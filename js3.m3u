@@ -4,7 +4,7 @@ http://192.168.1.1:4022/rtp/239.49.8.19:9614#http://192.168.1.1:4022/rtp/239.49.
 #EXTINF:-1 tvg-id="2" tvg-name="CCTV2" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV2.png" group-title="央视",CCTV2财经高清
 http://192.168.1.1:4022/rtp/239.49.8.50:9802#http://192.168.1.1:4022/rtp/239.49.8.130:6000
 #EXTINF:-1 tvg-id="3" tvg-name="CCTV3" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV3.png" group-title="央视",CCTV3综艺
-http://192.168.1.1:4022/rtp/239.49.0.3:9566#http://192.168.1.1:4022/rtp/239.49.1.3:6000
+http://192.168.1.1:4022/rtp/239.49.8.74:8000#http://192.168.1.1:4022/rtp/239.49.1.3:6000
 #EXTINF:-1 tvg-id="4" tvg-name="CCTV4" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV4.png" group-title="央视",CCTV4中文国际高清
 http://192.168.1.1:4022/rtp/239.49.8.51:9806#http://192.168.1.1:4022/rtp/239.49.8.131:6000
 #EXTINF:-1 tvg-id="5" tvg-name="CCTV5" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV5.png" group-title="央视",CCTV5高清
@@ -519,16 +519,6 @@ http://192.168.1.1:4022/rtp/239.49.1.224:6000
 http://192.168.1.1:4022/rtp/239.49.1.173:6000
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",导视-江苏ITV
 http://192.168.1.1:4022/rtp/239.49.0.190:9458#http://192.168.1.1:4022/rtp/239.49.1.74:6000
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",中国体彩
-http://192.168.1.1:4022/rtp/239.49.1.159:6000
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",中国体彩2
-http://192.168.1.1:4022/rtp/239.49.1.160:6000
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",中国体彩3
-http://192.168.1.1:4022/rtp/239.49.1.161:6000
-#EXTINF:-1 tvg-id="1980" tvg-name="幸福彩" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/xingfucai.png" group-title="上海",幸福彩
-http://192.168.1.1:4022/rtp/239.49.1.172:6000
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",体彩玩法直播
-http://192.168.1.1:4022/rtp/239.49.0.111:8880
 #EXTINF:-1 tvg-id="7245" tvg-name="中国教育4台" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/中国教育4台.png" group-title="地方",4K测试3
 http://192.168.1.1:4022/rtp/239.49.8.71:8000
 #EXTINF:-1 tvg-id="7245" tvg-name="中国教育4台" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/中国教育4台.png" group-title="地方",4K测试5
