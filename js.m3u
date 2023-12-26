@@ -6,9 +6,9 @@ http://[2409:8087:2001:20:2800:0:df6e:eb27]:80/ott.mobaibox.com/PLTV/3/224/32212
 #EXTINF:-1 tvg-id="凤凰香港" tvg-name="凤凰香港" tvg-logo="https://live.fanmingming.com/tv/凤凰卫视香港台.png" group-title="凤凰卫视",凤凰香港
 http://[2409:8087:2001:20:2800:0:df6e:eb1d]:80/ott.mobaibox.com/PLTV/1/224/3221228530/1.m3u8
 #EXTINF: -1,tvg-id="CCTV1" tvg-name="CCTV1" tvg-logo="https://live.fanmingming.com/tv/CCTV1.png" group-title="本地组播",CCTV-1 综合
-http://192.168.1.1:4022/rtp/239.49.8.19:9614#http://192.168.1.1:4022/rtp/239.49.8.129:6000
+http://192.168.1.1:4022/rtp/239.49.8.19:9614
 #EXTINF: -1,tvg-id="CCTV2" tvg-name="CCTV2" tvg-logo="https://live.fanmingming.com/tv/CCTV2.png" group-title="本地组播",CCTV-2 财经
-http://192.168.1.1:4022/rtp/239.49.8.50:9802#http://121.237.53.178:8888/rtp/239.49.8.130:6000
+http://192.168.1.1:4022/rtp/239.49.8.50:9802
 #EXTINF: -1,tvg-id="CCTV3" tvg-name="CCTV3" tvg-logo="https://live.fanmingming.com/tv/CCTV3.png" group-title="本地组播",CCTV-3 综艺
 http://192.168.1.1:4022/rtp/239.49.8.74:8000
 #EXTINF: -1,tvg-id="CCTV4" tvg-name="CCTV4" tvg-logo="https://live.fanmingming.com/tv/CCTV4.png" group-title="本地组播",CCTV-4 中文国际
@@ -279,28 +279,5 @@ http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001248/index.m3u8
 http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001241/index.m3u8
 #EXTINF:-1 tvg-id="CCTV16" tvg-name="CCTV16" tvg-logo="https://live.fanmingming.com/tv/CCTV16.png" group-title="央视频道V6",CCTV-16 奥林匹克 4K
 http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001258/index.m3u8
-#EXTINF:-1,澳视澳门.720
-http://61.244.22.5/ch1/ch1.live/index.m3u8
-#EXTINF:-1,澳视澳门.720
-http://61.244.22.5/ch1/ch1.live/playelist.m3u8
-#EXTINF:-1,澳视卫星.720
-http://61.244.22.5/ch3/ch3.live/index.m3u8
-#EXTINF:-1,澳视卫星.720
-http://61.244.22.5/ch3/_definst_/ch3.live/playlist.m3u8
-#EXTINF:-1,澳门体育.720
-http://61.244.22.5/ch4/sport_ch4.live/index.m3u8
-#EXTINF:-1,澳门体育.720
-http://61.244.22.5/ch4/sport_ch4.live/master.m3u8
-#EXTINF:-1,澳门资讯.720
-http://61.244.22.5/ch5/info_ch5.live/index.m3u8
-#EXTINF:-1,澳门资讯.720
-http://61.244.22.5/ch5/info_ch5.live/master.m3u8
-#EXTINF:-1,澳门综艺.720
-http://61.244.22.5/ch6/hd_ch6.live/index.m3u8
-#EXTINF:-1,澳门综艺.720
-http://61.244.22.5/ch6/_definst_/hd_ch6.live/playlist.m3u8
-#EXTINF:-1,澳视葡文.720
-http://61.244.22.5/ch2/ch2.live/index.m3u8
-#EXTINF:-1,澳视葡文.720
-http://61.244.22.5/ch2/ch2.live/playelist.m3u8
+
 
