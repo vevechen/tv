@@ -369,10 +369,6 @@ http://zteres.sn.chinamobile.com:6060/000000001000/6000000006000280630/index.m3u
 http://zteres.sn.chinamobile.com:6060/000000001000/6000000006000080630/index.m3u8?channel-id=wasusyt&Contentid=6000000006000080630&livemode=1&stbId=3
 #EXTINF:-1 ,爱怀旧
 http://zteres.sn.chinamobile.com:6060/000000001000/6000000006000260630/index.m3u8?channel-id=wasusyt&Contentid=6000000006000260630&livemode=1&stbId=3
-http://zteres.sn.chinamobile.com:6060/000000001000/6000000006000170630/index.m3u8?channel-id=wasusyt&Contentid=6000000006000170630&livemode=1&stbId=3
-http://zteres.sn.chinamobile.com:6060/000000001000/6000000006000090630/index.m3u8?channel-id=wasusyt&Contentid=6000000006000090630&livemode=1&stbId=3
-http://zteres.sn.chinamobile.com:6060/000000001000/6000000006000110630/index.m3u8?channel-id=wasusyt&Contentid=6000000006000110630&livemode=1&stbId=3
-http://zteres.sn.chinamobile.com:6060/000000001000/6000000006000200630/index.m3u8?channel-id=wasusyt&Contentid=6000000006000200630&livemode=1&stbId=3
 #EXTINF:-1 ,爱经典
 http://zteres.sn.chinamobile.com:6060/000000001000/6000000006000060630/index.m3u8?channel-id=wasusyt&Contentid=6000000006000060630&livemode=1&stbId=3
 #EXTINF:-1 ,爱科幻
@@ -409,31 +405,16 @@ http://zteres.sn.chinamobile.com:6060/000000001000/6000000006000180630/index.m3u
 http://zteres.sn.chinamobile.com:6060/000000001000/6000000006000130630/index.m3u8?channel-id=wasusyt&Contentid=6000000006000130630&livemode=1&stbId=3
 #EXTINF:-1 ,爱院线
 http://zteres.sn.chinamobile.com:6060/000000001000/6000000006000030630/index.m3u8?channel-id=wasusyt&Contentid=6000000006000030630&livemode=1&stbId=3
-#EXTINF:-1,华语影院
-http://php.jdshipin.com:8880/bst.php?id=hyyy8m/8000000
-http://cfss.cc/ds/bst.php?id=Cf-66
-http://223.111.117.11/liveplay-kk.rtxapp.com/live/program/live/hyyy8m/8000000/mnf.m3u8
-http://tt-live.bestvcdn.com.cn/live/program/live/hyyy8m/8000000/mnf.m3u8
 #EXTINF:-1,星光影院
 http://php.jdshipin.com:8880/bst.php?id=xgyy8m/8000000
-http://cfss.cc/ds/bst.php?id=Cf-70
-http://223.111.117.11/liveplay-kk.rtxapp.com/live/program/live/xgyy8m/8000000/mnf.m3u8
 #EXTINF:-1,全球大片
 http://php.jdshipin.com:8880/bst.php?id=qqdp8m/8000000
-http://cfss.cc/ds/bst.php?id=Cf-72
-http://223.111.117.11/liveplay-kk.rtxapp.com/live/program/live/qqdp8m/8000000/mnf.m3u8
 #EXTINF:-1,热门剧场
 http://php.jdshipin.com:8880/bst.php?id=rmjc8m/8000000
-http://cfss.cc/ds/bst.php?id=Cf-73
-http://223.111.117.11/liveplay-kk.rtxapp.com/live/program/live/rmjc8m/8000000/mnf.m3u8
 #EXTINF:-1,谍战剧场
 http://php.jdshipin.com:8880/bst.php?id=dzjc8m/8000000
-http://cfss.cc/ds/bst.php?id=Cf-71
-http://223.111.117.11/liveplay-kk.rtxapp.com/live/program/live/dzjc8m/8000000/mnf.m3u8
 #EXTINF:-1,青春动漫
 http://php.jdshipin.com:8880/bst.php?id=qcdm8m/8000000
-http://cfss.cc/ds/bst.php?id=Cf-68
-http://223.111.117.11/liveplay-kk.rtxapp.com/live/program/live/qcdm8m/8000000/mnf.m3u8
 
 #EXTINF: -1,group-title="江苏地方",连云港公共
 http://192.168.1.1:4022/rtp/239.49.0.229:8000
