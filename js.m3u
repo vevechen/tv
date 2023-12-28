@@ -434,3 +434,51 @@ http://223.111.117.11/liveplay-kk.rtxapp.com/live/program/live/dzjc8m/8000000/mn
 http://php.jdshipin.com:8880/bst.php?id=qcdm8m/8000000
 http://cfss.cc/ds/bst.php?id=Cf-68
 http://223.111.117.11/liveplay-kk.rtxapp.com/live/program/live/qcdm8m/8000000/mnf.m3u8
+
+#EXTINF: -1,group-title="江苏地方",连云港公共
+http://192.168.1.1:4022/rtp/239.49.0.229:8000
+#EXTINF: -1,group-title="江苏地方",常州公共
+http://192.168.1.1:4022/rtp/239.49.1.131:6000
+#EXTINF: -1,group-title="江苏地方",宿迁公共
+http://192.168.1.1:4022/rtp/239.49.1.123:6000
+#EXTINF: -1,group-title="江苏地方",宿迁综合
+http://192.168.1.1:4022/rtp/239.49.1.140:6000
+#EXTINF: -1,group-title="江苏地方",泗阳综合
+http://192.168.1.1:4022/rtp/239.49.1.103:6000
+#EXTINF: -1,group-title="江苏地方",高淳综合
+http://192.168.1.1:4022/rtp/239.49.0.74:8000
+#EXTINF: -1,group-title="江苏地方",南通综合
+http://192.168.1.1:4022/rtp/239.49.0.223:8000
+#EXTINF: -1,group-title="江苏地方",邳州综合
+http://192.168.1.1:4022/rtp/239.49.1.232:6000
+#EXTINF: -1,group-title="江苏地方",淮安综合
+http://192.168.1.1:4022/rtp/239.49.9.46:6000
+#EXTINF: -1,group-title="江苏地方",淮阴综合
+http://192.168.1.1:4022/rtp/239.49.0.169:8000
+#EXTINF: -1,group-title="江苏地方",盱眙综合
+http://192.168.1.1:4022/rtp/239.49.9.18:6000
+#EXTINF: -1,group-title="江苏地方",沛县综合
+http://192.168.1.1:4022/rtp/239.49.9.19:6000
+#EXTINF: -1,group-title="江苏地方",铜山综合
+http://192.168.1.1:4022/rtp/239.49.9.86:6000
+#EXTINF: -1,group-title="江苏地方",射阳综合
+http://192.168.1.1:4022/rtp/239.49.9.84:6000
+#EXTINF: -1,group-title="江苏地方",赣榆
+http://192.168.1.1:4022/rtp/239.49.1.247:6000
+#EXTINF: -1,group-title="江苏地方",苏州生活
+http://192.168.1.1:4022/rtp/239.49.8.194:6000
+#EXTINF: -1,group-title="江苏地方",泰州
+http://192.168.1.1:4022/rtp/239.49.9.20:6000
+#EXTINF: -1,group-title="江苏地方",徐州
+http://192.168.1.1:4022/rtp/239.49.9.45:6000
+#EXTINF: -1,group-title="江苏地方",盐城
+http://192.168.1.1:4022/rtp/239.49.9.51:6000
+#EXTINF: -1,group-title="江苏地方",BESTV_4K
+http://192.168.1.1:4022/rtp/239.49.0.202:8000
+#EXTINF: -1,group-title="江苏地方",BESTV2_4K
+http://192.168.1.1:4022/rtp/239.49.0.144:
+#EXTINF: -1,group-title="江苏地方",香港BesTV
+http://192.168.1.1:4022/rtp/239.49.1.201:6000
+
+
+
