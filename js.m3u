@@ -118,7 +118,6 @@ http://192.168.1.1:4022/rtp/239.49.0.22:8168
 http://192.168.1.1:4022/rtp/239.49.8.122:8000
 #EXTINF: -1,group-title="南京组播",南京生活
 http://192.168.1.1:4022/rtp/239.49.0.184:9438
-#EXTINF: -1,group-title="南京组播",南京生活2
 http://live.nbs.cn/channels/njtv/shpd/nbs06.m3u8
 #EXTINF: -1,group-title="南京组播",南京教科
 http://192.168.1.1:4022/rtp/239.49.0.183:9434
