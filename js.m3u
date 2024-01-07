@@ -168,7 +168,7 @@ http://192.168.1.1:4022/rtp/239.49.8.57:9830
 http://192.168.1.1:4022/rtp/239.49.8.110:8000
 #EXTINF: -1,group-title="地方卫视",河南卫视HD
 http://192.168.1.1:4022/rtp/239.49.8.29:8000
-#EXTINF: -1,group-title="地方卫视",东南卫视HD
+#EXTINF:-1 tvg-id="东南卫视" tvg-name="东南卫视" tvg-logo="https://live.fanmingming.com/tv/东南卫视.png" group-title="地方卫视",东南卫视
 http://192.168.1.1:4022/rtp/239.49.8.112:8000
 #EXTINF: -1,group-title="地方卫视",天津卫视HD
 http://192.168.1.1:4022/rtp/239.49.8.35:8620
