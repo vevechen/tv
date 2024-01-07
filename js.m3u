@@ -43,6 +43,8 @@ http://192.168.1.1:4022/rtp/239.49.8.31:8000
 http://192.168.1.1:4022/rtp/239.49.8.52:9810
 #EXTINF: -1,tvg-id="CCTV16" tvg-name="CCTV16" tvg-logo="https://live.fanmingming.com/tv/CCTV16.png" group-title="本地组播",CCTV-16 奥林匹克 4K
 http://192.168.1.1:4022/rtp/239.49.0.109:8000
+#EXTINF: -1,group-title="本地组播",央视台球
+http://192.168.1.1:4022/rtp/239.49.8.32:8000
 #EXTINF:-1 tvg-id="CHC动作电影" tvg-name="CHC动作电影" tvg-logo="https://live.fanmingming.com/tv/CHC动作电影.png" group-title="CHC",CHC动作电影
 http://[2409:8087:7001:20:2::3]:80/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226465/1.m3u8
 #EXTINF:-1 tvg-id="CHC家庭影院" tvg-name="CHC家庭影院" tvg-logo="https://live.fanmingming.com/tv/CHC家庭影院.png" group-title="CHC",CHC家庭影院
@@ -96,23 +98,23 @@ http://zteres.sn.chinamobile.com:6060/000000001000/6000000006000130630/index.m3u
 #EXTINF:-1 tvg-id="爱院线" tvg-name="爱院线" group-title="移动源",爱院线
 http://zteres.sn.chinamobile.com:6060/000000001000/6000000006000030630/index.m3u8?channel-id=wasusyt&Contentid=6000000006000030630&livemode=1&stbId=3
 
-#EXTINF: -1,group-title="江苏组播",江苏卫视HD
+#EXTINF: -1,group-title="江苏组播",江苏卫视
 http://192.168.1.1:4022/rtp/239.49.8.16:9602
-#EXTINF: -1,group-title="江苏组播",江苏城市HD
+#EXTINF: -1,group-title="江苏组播",江苏城市
 http://192.168.1.1:4022/rtp/239.49.8.107:8000
-#EXTINF: -1,group-title="江苏组播",江苏综艺HD
+#EXTINF: -1,group-title="江苏组播",江苏综艺
 http://192.168.1.1:4022/rtp/239.49.8.108:8000
-#EXTINF: -1,group-title="江苏组播",江苏体育休闲HD
+#EXTINF: -1,group-title="江苏组播",江苏体育休闲
 http://192.168.1.1:4022/rtp/239.49.8.117:8000
-#EXTINF: -1,group-title="江苏组播",江苏影视HD
+#EXTINF: -1,group-title="江苏组播",江苏影视
 http://192.168.1.1:4022/rtp/239.49.8.118:8000
-#EXTINF: -1,group-title="江苏组播",优漫卡通HD
+#EXTINF: -1,group-title="江苏组播",优漫卡通
 http://192.168.1.1:4022/rtp/239.49.8.119:8000
-#EXTINF: -1,group-title="江苏组播",江苏公共新闻HD
+#EXTINF: -1,group-title="江苏组播",江苏公共新闻
 http://192.168.1.1:4022/rtp/239.49.8.120:8000
 #EXTINF: -1,group-title="江苏组播",江苏国际
 http://192.168.1.1:4022/rtp/239.49.0.22:8168
-#EXTINF: -1,group-title="江苏组播",江苏教育HD
+#EXTINF: -1,group-title="江苏组播",江苏教育
 http://192.168.1.1:4022/rtp/239.49.8.122:8000
 #EXTINF: -1,group-title="南京组播",南京生活
 http://192.168.1.1:4022/rtp/239.49.0.184:9438
@@ -120,21 +122,17 @@ http://192.168.1.1:4022/rtp/239.49.0.184:9438
 http://live.nbs.cn/channels/njtv/shpd/nbs06.m3u8
 #EXTINF: -1,group-title="南京组播",南京教科
 http://192.168.1.1:4022/rtp/239.49.0.183:9434
-#EXTINF: -1,group-title="南京组播",南京教科2
 http://live.nbs.cn/channels/njtv/jkpd/nbs06.m3u8
 #EXTINF: -1,group-title="南京组播",十八频道
 http://192.168.1.1:4022/rtp/239.49.0.26:8200
-#EXTINF: -1,group-title="南京组播",十八频道2
 http://live.nbs.cn/channels/njtv/sbpd/500k.m3u8
 #EXTINF: -1,group-title="南京组播",新闻综合
 http://192.168.1.1:4022/rtp/239.49.0.25:8192
-#EXTINF: -1,group-title="南京组播",新闻综合2
 http://live.nbs.cn/channels/njtv/xwzh/nbs06.m3u8
 #EXTINF: -1,group-title="南京组播",南京影视
 http://192.168.1.1:4022/rtp/239.49.0.24:8000
 #EXTINF: -1,group-title="南京组播",南京娱乐
 http://192.168.1.1:4022/rtp/239.49.0.38:8000
-#EXTINF: -1,group-title="南京组播",南京娱乐2
 http://live.nbs.cn/channels/njtv/ylpd/500k.m3u8
 #EXTINF: -1,group-title="南京组播",南京信息
 http://192.168.1.1:4022/rtp/239.49.0.75:8000
@@ -210,57 +208,54 @@ http://192.168.1.1:4022/rtp/239.49.0.180:8000
 http://192.168.1.1:4022/rtp/239.49.0.245:8000
 #EXTINF: -1,group-title="地方卫视",三沙卫视
 http://192.168.1.1:4022/rtp/239.49.0.165:8000
-#EXTINF: -1,第一剧场HD
+#EXTINF: -1,group-title="地方卫视",陕西卫视
+http://192.168.1.1:4022/rtp/239.49.0.233:8000
+#EXTINF: -1,group-title="地方卫视",大湾区卫视
+http://192.168.1.1:4022/rtp/239.49.0.234:8000
+#EXTINF: -1,第一剧场
 http://192.168.1.1:4022/rtp/239.49.8.94:8000
-#EXTINF: -1,电视指南HD
+#EXTINF: -1,电视指南
 http://192.168.1.1:4022/rtp/239.49.0.161:9282
-#EXTINF: -1,风云足球HD
+#EXTINF: -1,风云足球
 http://192.168.1.1:4022/rtp/239.49.0.153:9218
-#EXTINF: -1,高尔夫网球HD
+#EXTINF: -1,高尔夫网球
 http://192.168.1.1:4022/rtp/239.49.0.154:9226
-#EXTINF: -1,世界地理HD
+#EXTINF: -1,世界地理
 http://192.168.1.1:4022/rtp/239.49.0.155:9234
-#EXTINF: -1,兵器科技HD
+#EXTINF: -1,兵器科技
 http://192.168.1.1:4022/rtp/239.49.0.160:9274
-#EXTINF: -1,风云剧场HD
+#EXTINF: -1,风云剧场
 http://192.168.1.1:4022/rtp/239.49.0.152:9210
-#EXTINF: -1,group-title="本地组播",央视精品HD
+#EXTINF: -1,group-title="本地组播",央视精品
 http://192.168.1.1:4022/rtp/239.49.0.156:9242
-#EXTINF: -1,group-title="本地组播",央视怀旧剧场HD
+#EXTINF: -1,group-title="本地组播",央视怀旧剧场
 http://192.168.1.1:4022/rtp/239.49.0.157:9250
-#EXTINF: -1,女性时尚HD
+#EXTINF: -1,女性时尚
 http://192.168.1.1:4022/rtp/239.49.8.93:8000
-#EXTINF: -1,快乐垂钓HD
+#EXTINF: -1,快乐垂钓
 http://192.168.1.1:4022/rtp/239.49.0.114:8000
 #EXTINF: -1,先锋乒羽
 http://192.168.1.1:4022/rtp/239.49.0.145:8000
-#EXTINF: -1,茶HD
+#EXTINF: -1,茶
 http://192.168.1.1:4022/rtp/239.49.0.146:8000
-#EXTINF: -1,梨园HD
+#EXTINF: -1,梨园
 http://192.168.1.1:4022/rtp/239.49.8.193:8000
-#EXTINF: -1,武术世界HD
+#EXTINF: -1,武术世界
 http://192.168.1.1:4022/rtp/239.49.0.205:8000
-#EXTINF: -1,文物宝库HD
+#EXTINF: -1,文物宝库
 http://192.168.1.1:4022/rtp/239.49.0.209:8000
 #EXTINF: -1,苏州生活资讯
 http://192.168.1.1:4022/rtp/239.49.8.116:8000
 #EXTINF: -1,精彩推荐
 http://192.168.1.1:4022/rtp/239.49.0.190:9458
+http://192.168.1.1:4022/rtp/239.49.8.34:8612
 #EXTINF: -1,书画频道
 http://192.168.1.1:4022/rtp/239.49.0.123:8000
-#EXTINF: -1,group-title="地方卫视",陕西卫视
-http://192.168.1.1:4022/rtp/239.49.0.233:8000
-#EXTINF: -1,group-title="地方卫视",大湾区卫视
-http://192.168.1.1:4022/rtp/239.49.0.234:8000
-#EXTINF: -1,精彩推荐高清
-http://192.168.1.1:4022/rtp/239.49.8.34:8612
-#EXTINF: -1,金鹰纪实HD
+#EXTINF: -1,金鹰纪实
 http://192.168.1.1:4022/rtp/239.49.8.79:8000
 #EXTINF: -1,女性时尚
 http://192.168.1.1:4022/rtp/239.49.0.159:9266
-#EXTINF: -1,group-title="本地组播",央视台球HD
-http://192.168.1.1:4022/rtp/239.49.8.32:8000
-#EXTINF: -1,金鹰卡通HD
+#EXTINF: -1,金鹰卡通
 http://192.168.1.1:4022/rtp/239.49.8.33:8000
 #EXTINF:-1 tvg-id="newtv超级综艺" tvg-name="newtv超级综艺" tvg-logo="https://live.fanmingming.com/tv/NEWTV超级综艺.png" group-title="NewTV系列",超级综艺
 http://[2409:8087:7000:20::4]:80/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226009/index.m3u8
