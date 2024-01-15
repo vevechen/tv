@@ -1,7 +1,7 @@
 #EXTM3U x-tvg-url="https://live.fanmingming.com/e.xml"
 
 #EXTINF: -1,tvg-id="CCTV1" tvg-name="CCTV1" tvg-logo="https://live.fanmingming.com/tv/CCTV1.png" group-title="本地组播",CCTV-1 综合
-rtsp://180.96.157.140:554/00000001/01000000000000003000000000161804?AuthInfo=OOo%2BQYVs42RPIdUYR31lsBHsnWfD6YpGe4QAfm%2BOkAllA3aKMbGRrsyfBcUzDazNbTVCbMvHpwCEmDTuLwf88KWwT30B4MTmvjsygU30Qg4%3D&citycode=0001&usercode=025208260013&Playtype=1&programid=ch00000000000000000007&contentid=ch00000000000000000007&videoid=ch09050909510015486077&recommendtype=0&userid=025208260013&boid=001&stbid=0010069900E068500423ACC4A902C0EF&terminalflag=1&profilecode=&usersessionid=257031298
+http://192.168.1.1:4022/rtp/180.96.157.140:554/00000001/01000000000000003000000000161804?AuthInfo=OOo%2BQYVs42RPIdUYR31lsBHsnWfD6YpGe4QAfm%2BOkAllA3aKMbGRrsyfBcUzDazNbTVCbMvHpwCEmDTuLwf88KWwT30B4MTmvjsygU30Qg4%3D&citycode=0001&usercode=025208260013&Playtype=1&programid=ch00000000000000000007&contentid=ch00000000000000000007&videoid=ch09050909510015486077&recommendtype=0&userid=025208260013&boid=001&stbid=0010069900E068500423ACC4A902C0EF&terminalflag=1&profilecode=&usersessionid=257031298
 
 #EXTINF:-1 tvg-id="凤凰中文" tvg-name="凤凰中文" tvg-logo="https://live.fanmingming.com/tv/凤凰卫视中文台.png" group-title="卫视频道",凤凰中文
 https://0472.org/hls/youzaiSB/fhzw.m3u8
