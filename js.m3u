@@ -10,9 +10,7 @@ http://[2409:8087:2001:20:2800:0:df6e:eb19]:80/ott.mobaibox.com/PLTV/3/224/32212
 https://0472.org/hls/youzaiSB/fhhk.m3u8
 http://[2409:8087:2001:20:2800:0:df6e:eb23]:80/ott.mobaibox.com/PLTV/1/224/3221228530/1.m3u8
 #EXTINF: -1,tvg-id="CCTV1" tvg-name="CCTV1" tvg-logo="https://live.fanmingming.com/tv/CCTV1.png" group-title="本地组播",CCTV-1 综合
-rtp://180.96.157.140:554/00000001/01000000000000003000000000161804?AuthInfo=OOo%2BQYVs42RPIdUYR31lsBHsnWfD6YpGe4QAfm%2BOkAllA3aKMbGRrsyfBcUzDazNbTVCbMvHpwCEmDTuLwf88KWwT30B4MTmvjsygU30Qg4%3D&citycode=0001&usercode=025208260013&Playtype=1&programid=ch00000000000000000007&contentid=ch00000000000000000007&videoid=ch09050909510015486077&recommendtype=0&userid=025208260013&boid=001&stbid=0010069900E068500423ACC4A902C0EF&terminalflag=1&profilecode=&usersessionid=257031298
 rtp://239.49.8.19:9614
-rtp://239.49.0.2:8008
 #EXTINF: -1,tvg-id="CCTV2" tvg-name="CCTV2" tvg-logo="https://live.fanmingming.com/tv/CCTV2.png" group-title="本地组播",CCTV-2 财经
 http://192.168.1.1:4022/rtp/239.49.8.50:9802
 #EXTINF: -1,tvg-id="CCTV3" tvg-name="CCTV3" tvg-logo="https://live.fanmingming.com/tv/CCTV3.png" group-title="本地组播",CCTV-3 综艺
