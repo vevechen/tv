@@ -45,7 +45,7 @@ https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV31.m3u8
 http://ali.hlspull.yximgs.com/live/huanqiuhklivejojwhjxojhjjjlfhjljsjcnxjfvbhjdjwjfjjdsswvtvbsxw.flv
 http://38.64.72.148/hls/modn/list/4006/playlist.m3u8
 
-#EXTINF:-1 tvg-name="三测试测试"
+#EXTINF:-1 tvg-name="测试测试"
 https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV01.m3u8
 https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV02.m3u8
 https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV03.m3u8
