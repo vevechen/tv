@@ -1,4 +1,8 @@
 #EXTM3U x-tvg-url="https://live.fanmingming.com/e.xml"
+#EXTINF:-1 tvg-name="鳳凰資訊" tvg-logo="https://live.fanmingming.com/tv/鳳凰資訊.png",鳳凰資訊
+https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV22.m3u8
+#EXTINF:-1 tvg-name="鳳凰中文" tvg-logo="https://live.fanmingming.com/tv/鳳凰中文.png",鳳凰中文
+https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV43.m3u8
 #EXTINF:-1 tvg-name="民视新闻 HD" tvg-logo="https://live.fanmingming.com/tv/民视新闻 HD.png",民视新闻 HD
 https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV17.m3u8
 #EXTINF:-1 tvg-name="台视新闻 HD" tvg-logo="https://live.fanmingming.com/tv/台视新闻 HD.png",台视新闻 HD
@@ -39,10 +43,6 @@ https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV67.m3u8
 https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV66.m3u8
 #EXTINF:-1 tvg-name="親子動畫01" tvg-logo="https://live.fanmingming.com/tv/親子動畫01.png",親子動畫01
 https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV65.m3u8
-#EXTINF:-1 tvg-name="鳳凰資訊" tvg-logo="https://live.fanmingming.com/tv/鳳凰資訊.png",鳳凰資訊
-https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV22.m3u8
-#EXTINF:-1 tvg-name="鳳凰中文" tvg-logo="https://live.fanmingming.com/tv/鳳凰中文.png",鳳凰中文
-https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV43.m3u8
 #EXTINF:-1 tvg-name="華視 HD" tvg-logo="https://live.fanmingming.com/tv/華視 HD.png",華視 HD
 https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV12.m3u8
 #EXTINF:-1 tvg-name="華視 HD" tvg-logo="https://live.fanmingming.com/tv/華視 HD.png",華視 HD
