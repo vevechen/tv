@@ -29,7 +29,20 @@ http://[2409:8087:2001:20:2800:0:df6e:eb1d]:80/PLTV/1/224/3221231041/1.m3u8
 
 #EXTINF:-1 tvg-name="民视新闻" group-title="台湾",民视新闻
 https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV17.m3u8
+http://38.64.72.148/hls/modn/list/4012/chunklist1.m3u8
+http://198.16.100.90:8278/ftvnew_taiwan/playlist.m3u8?tid=md953ce86cdad16241449&ct=17874&tsum=949d4aace793a001dd41392b210ba406
+
 #EXTINF:-1 tvg-name="三立NEWS+" group-title="台湾",三立NEWS+
 https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV32.m3u8
+http://ali.hlspull.yximgs.com/live/twlivehmcyoywzzubzfdzfvchtcbszzzvfzhncvndvbsxcbmzsllive.flv
+http://ali.hlspull.yximgs.com/live/huanqiuhklivehmcyoywjjubjdfjfvchtjujxcjxvcbsjfsdxcbmjsllivexw.flv
+http://ali.hlspull.yximgs.com/live/twlivehmcyoywzzubzfdzfvchtcbszzzvfzhncvndvbsxcbmzsllive.flv
+http://tianhewan.top/ZIPP.php?url=http://211.72.65.236:8543/.m3u8
+http://50.7.238.114:8278/sanlitaiwan/playlist.m3u8?tid=m92ccadc4dc3718157816&ct=17874&tsum=3570a8198ca0fb7ebb803807e38b33fb
+
 #EXTINF:-1 tvg-name="TVBS新闻" group-title="台湾",TVBS网路新闻
 https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV31.m3u8
+http://ali.hlspull.yximgs.com/live/huanqiuhklivejojwhjxojhjjjlfhjljsjcnxjfvbhjdjwjfjjdsswvtvbsxw.flv
+http://38.64.72.148/hls/modn/list/4006/playlist.m3u8
+
+
