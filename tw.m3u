@@ -1,0 +1,77 @@
+#EXTM3U x-tvg-url="https://live.fanmingming.com/e.xml"
+#EXTINF:-1 tvg-name="民视新闻 HD" tvg-logo="https://live.fanmingming.com/tv/民视新闻 HD.png",民视新闻 HD
+https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV17.m3u8
+#EXTINF:-1 tvg-name="台视新闻 HD" tvg-logo="https://live.fanmingming.com/tv/台视新闻 HD.png",台视新闻 HD
+https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV25.m3u8
+#EXTINF:-1 tvg-name="中视新闻 HD" tvg-logo="https://live.fanmingming.com/tv/中视新闻 HD.png",中视新闻 HD
+https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV09.m3u8
+#EXTINF:-1 tvg-name="三立iNEWS" tvg-logo="https://live.fanmingming.com/tv/三立iNEWS.png",三立iNEWS
+https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV01.m3u8
+#EXTINF:-1 tvg-name="三立NEWS+" tvg-logo="https://live.fanmingming.com/tv/三立NEWS+.png",三立NEWS+
+https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV32.m3u8
+#EXTINF:-1 tvg-name="寰宇新闻" tvg-logo="https://live.fanmingming.com/tv/寰宇新闻.png",寰宇新闻
+https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV02.m3u8
+#EXTINF:-1 tvg-name="镜新闻Mnews" tvg-logo="https://live.fanmingming.com/tv/镜新闻Mnews.png",镜新闻Mnews
+https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV70.m3u8
+#EXTINF:-1 tvg-name="东森財经 HD" tvg-logo="https://live.fanmingming.com/tv/东森財经 HD.png",东森財经 HD
+https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV03.m3u8
+#EXTINF:-1 tvg-name="原住民族电视台" tvg-logo="https://live.fanmingming.com/tv/原住民族电视台.png",原住民族电视台
+https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV35.m3u8
+#EXTINF:-1 tvg-name="中视 HD" tvg-logo="https://live.fanmingming.com/tv/中视 HD.png",中视 HD
+https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV42.m3u8
+#EXTINF:-1 tvg-name="华视综合娱乐" tvg-logo="https://live.fanmingming.com/tv/华视综合娱乐.png",华视综合娱乐
+https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV12.m3u8
+#EXTINF:-1 tvg-name="EF运通" tvg-logo="https://live.fanmingming.com/tv/EF运通.png",EF运通
+https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV06.m3u8
+#EXTINF:-1 tvg-name="大爱1台" tvg-logo="https://live.fanmingming.com/tv/大爱1台.png",大爱1台
+https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV30.m3u8
+#EXTINF:-1 tvg-name="大爱1台" tvg-logo="https://live.fanmingming.com/tv/大爱1台.png",大爱1台
+https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV48.m3u8
+#EXTINF:-1 tvg-name="大爱2台" tvg-logo="https://live.fanmingming.com/tv/大爱2台.png",大爱2台
+https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV47.m3u8
+#EXTINF:-1 tvg-name="幸福空间居家台" tvg-logo="https://live.fanmingming.com/tv/幸福空间居家台.png",幸福空间居家台
+https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV41.m3u8
+#EXTINF:-1 tvg-name="Arirang 阿里郎" tvg-logo="https://live.fanmingming.com/tv/Arirang 阿里郎.png",Arirang 阿里郎
+https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV60.m3u8
+#EXTINF:-1 tvg-name="親子動畫-DAVE&AVA(英)" tvg-logo="https://live.fanmingming.com/tv/親子動畫-DAVE&AVA(英).png",親子動畫-DAVE&AVA(英)
+https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV67.m3u8
+#EXTINF:-1 tvg-name="親子動畫02" tvg-logo="https://live.fanmingming.com/tv/親子動畫02.png",親子動畫02
+https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV66.m3u8
+#EXTINF:-1 tvg-name="親子動畫01" tvg-logo="https://live.fanmingming.com/tv/親子動畫01.png",親子動畫01
+https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV65.m3u8
+#EXTINF:-1 tvg-name="鳳凰資訊" tvg-logo="https://live.fanmingming.com/tv/鳳凰資訊.png",鳳凰資訊
+https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV22.m3u8
+#EXTINF:-1 tvg-name="鳳凰中文" tvg-logo="https://live.fanmingming.com/tv/鳳凰中文.png",鳳凰中文
+https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV43.m3u8
+#EXTINF:-1 tvg-name="華視 HD" tvg-logo="https://live.fanmingming.com/tv/華視 HD.png",華視 HD
+https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV12.m3u8
+#EXTINF:-1 tvg-name="華視 HD" tvg-logo="https://live.fanmingming.com/tv/華視 HD.png",華視 HD
+https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV26.m3u8
+#EXTINF:-1 tvg-name="英文兒歌動畫" tvg-logo="https://live.fanmingming.com/tv/英文兒歌動畫.png",英文兒歌動畫
+https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV68.m3u8
+#EXTINF:-1 tvg-name="中天新聞 2(循環直播)" tvg-logo="https://live.fanmingming.com/tv/中天新聞 2(循環直播).png",中天新聞 2(循環直播)
+https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV49.m3u8
+#EXTINF:-1 tvg-name="NBC NEWS" tvg-logo="https://live.fanmingming.com/tv/NBC NEWS.png",NBC NEWS
+https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV39.m3u8
+#EXTINF:-1 tvg-name="HTB Hokkaido NEWS24" tvg-logo="https://live.fanmingming.com/tv/HTB Hokkaido NEWS24.png",HTB Hokkaido NEWS24
+https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV53.m3u8
+#EXTINF:-1 tvg-name="GB News UK" tvg-logo="https://live.fanmingming.com/tv/GB News UK.png",GB News UK
+https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV33.m3u8
+#EXTINF:-1 tvg-name="France 24" tvg-logo="https://live.fanmingming.com/tv/France 24.png",France 24
+https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV38.m3u8
+#EXTINF:-1 tvg-name="Euronews" tvg-logo="https://live.fanmingming.com/tv/Euronews.png",Euronews
+https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV37.m3u8
+#EXTINF:-1 tvg-name="DW 德國之聲" tvg-logo="https://live.fanmingming.com/tv/DW 德國之聲.png",DW 德國之聲
+https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV08.m3u8
+#EXTINF:-1 tvg-name="CNA亞洲新聞" tvg-logo="https://live.fanmingming.com/tv/CNA亞洲新聞.png",CNA亞洲新聞
+https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV52.m3u8
+#EXTINF:-1 tvg-name="Bloomberg News" tvg-logo="https://live.fanmingming.com/tv/Bloomberg News.png",Bloomberg News
+https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV44.m3u8
+#EXTINF:-1 tvg-name="新唐人亞太台" tvg-logo="https://live.fanmingming.com/tv/新唐人亞太台.png",新唐人亞太台
+https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV23.m3u8
+#EXTINF:-1 tvg-name="國會議事轉播" tvg-logo="https://live.fanmingming.com/tv/國會議事轉播.png",國會議事轉播
+https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV56.m3u8
+#EXTINF:-1 tvg-name="國會議事轉播" tvg-logo="https://live.fanmingming.com/tv/國會議事轉播.png",國會議事轉播
+https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV57.m3u8
+#EXTINF:-1 tvg-name="中天新聞 2" tvg-logo="https://live.fanmingming.com/tv/中天新聞 2.png",中天新聞 2
+https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV49.m3u8
