@@ -85,7 +85,9 @@ https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV81.m3u8
 https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV82.m3u8
 https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV83.m3u8
 https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV84.m3u8
+#EXTINF:-1 tvg-name="寰宇财经台" group-title="台湾",寰宇财经台
 https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV85.m3u8
+#EXTINF:-1 tvg-name="妈祖"
 https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV909.m3u8
 https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV910.m3u8
 https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV911.m3u8
