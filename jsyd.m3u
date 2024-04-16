@@ -51,6 +51,8 @@ http://223.110.241.139:6610/gitv/live1/G_CETV-4/G_CETV-4/
 http://ott.mobaibox.com/PLTV/3/224/3221228527/index.m3u8
 #EXTINF:-1 tvg-id="194" tvg-name="凤凰资讯" tvg-logo="https://pic.erw.cc/epglogo/gangaotai/Phoenix2.png" group-title="卫视",凤凰资讯
 http://ott.mobaibox.com/PLTV/3/224/3221228524/index.m3u8
+#EXTINF:-1 tvg-id="195" tvg-name="凤凰香港" tvg-logo="https://pic.erw.cc/epglogo/gangaotai/Phoenix3.png" group-title="卫视",凤凰香港
+http://ott.mobaibox.com/PLTV/3/224/3221228530/index.m3u8
 #EXTINF:-1 tvg-id="91" tvg-name="江苏卫视" tvg-logo="https://pic.erw.cc/epglogo/weishi/Jiangsu.png" group-title="卫视",江苏卫视
 http://ott.mobaibox.com/PLTV/3/224/3221228306/index.m3u8
 #EXTINF:-1 tvg-id="88" tvg-name="浙江卫视" tvg-logo="https://pic.erw.cc/epglogo/weishi/Zhejiang.png" group-title="卫视",浙江卫视
