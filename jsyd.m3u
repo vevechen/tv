@@ -14,23 +14,23 @@ http://ott.mobaibox.com/PLTV/3/224/3221228277/index.m3u8
 #EXTINF:-1 tvg-id="7" tvg-name="CCTV6" tvg-logo="https://pic.erw.cc/epglogo/cctv/CCTV6.png" group-title="央视",CCTV6
 http://ott.mobaibox.com/PLTV/3/224/3221228280/index.m3u8
 #EXTINF:-1 tvg-id="8" tvg-name="CCTV7" tvg-logo="https://pic.erw.cc/epglogo/cctv/CCTV7.png" group-title="央视",CCTV7
-http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225733/index.m3u8
+http://ott.mobaibox.com/PLTV/3/224/3221227626/index.m3u8
 #EXTINF:-1 tvg-id="9" tvg-name="CCTV8" tvg-logo="https://pic.erw.cc/epglogo/cctv/CCTV8.png" group-title="央视",CCTV8
 http://ott.mobaibox.com/PLTV/3/224/3221228398/index.m3u8
 #EXTINF:-1 tvg-id="10" tvg-name="CCTV9" tvg-logo="https://pic.erw.cc/epglogo/cctv/CCTV9.png" group-title="央视",CCTV9
-http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225734/index.m3u8
+http://ott.mobaibox.com/PLTV/3/224/3221227659/index.m3u8
 #EXTINF:-1 tvg-id="11" tvg-name="CCTV10" tvg-logo="https://pic.erw.cc/epglogo/cctv/CCTV10.png" group-title="央视",CCTV10
-http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225730/index.m3u8
+http://ott.mobaibox.com/PLTV/3/224/3221227717/index.m3u8
 #EXTINF:-1 tvg-id="12" tvg-name="CCTV11" tvg-logo="https://pic.erw.cc/epglogo/cctv/CCTV11.png" group-title="央视",CCTV11
-http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225597/index.m3u8
+http://ott.mobaibox.com/PLTV/3/224/3221227720/index.m3u8
 #EXTINF:-1 tvg-id="13" tvg-name="CCTV12" tvg-logo="https://pic.erw.cc/epglogo/cctv/CCTV12.png" group-title="央视",CCTV12
-http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225731/index.m3u8
+http://ott.mobaibox.com/PLTV/3/224/3221227655/index.m3u8
 #EXTINF:-1 tvg-id="14" tvg-name="CCTV13" tvg-logo="https://pic.erw.cc/epglogo/cctv/CCTV13.png" group-title="央视",CCTV13
-http://ott.mobaibox.com/PLTV/3/224/3221228324/index.m3u8
+http://ott.mobaibox.com/PLTV/4/224/3221227387/index.m3u8
 #EXTINF:-1 tvg-id="15" tvg-name="CCTV14" tvg-logo="https://pic.erw.cc/epglogo/cctv/CCTV14.png" group-title="央视",CCTV14
-http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225732/index.m3u8
+http://ott.mobaibox.com/PLTV/4/224/3221228489/index.m3u8
 #EXTINF:-1 tvg-id="16" tvg-name="CCTV15" tvg-logo="https://pic.erw.cc/epglogo/cctv/CCTV15.png" group-title="央视",CCTV15
-http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225601/index.m3u8
+http://ott.mobaibox.com/PLTV/4/224/3221228639/index.m3u8
 #EXTINF:-1 tvg-id="17" tvg-name="CCTV16" tvg-logo="https://pic.erw.cc/epglogo/cctv/CCTV16.png" group-title="央视",CCTV16
 http://ott.mobaibox.com/PLTV/3/224/3221228112/index.m3u8
 #EXTINF:-1 tvg-id="18" tvg-name="CCTV17" tvg-logo="https://pic.erw.cc/epglogo/cctv/CCTV17.png" group-title="央视",CCTV17
@@ -58,7 +58,7 @@ http://ott.mobaibox.com/PLTV/3/224/3221228133/index.m3u8
 #EXTINF:-1 tvg-id="80" tvg-name="东方卫视" tvg-logo="https://pic.erw.cc/epglogo/weishi/Dongfang.png" group-title="卫视",东方卫视
 http://ott.mobaibox.com/PLTV/3/224/3221228425/index.m3u8
 #EXTINF:-1 tvg-id="96" tvg-name="东南卫视" tvg-logo="https://pic.erw.cc/epglogo/weishi/Dongnan.png" group-title="卫视",东南卫视
-http://223.110.241.139:6610/gitv/live1/DNWS/DNWS/
+http://ott.mobaibox.com/PLTV/4/224/3221225816/index.m3u8
 #EXTINF:-1 tvg-id="99" tvg-name="甘肃卫视" tvg-logo="https://pic.erw.cc/epglogo/weishi/Gansu.png" group-title="卫视",甘肃卫视
 http://ott.mobaibox.com/PLTV/3/224/3221227568/index.m3u8
 #EXTINF:-1 tvg-id="82" tvg-name="广东卫视" tvg-logo="https://pic.erw.cc/epglogo/weishi/Guangdong.png" group-title="卫视",广东卫视
@@ -68,7 +68,7 @@ http://ott.mobaibox.com/PLTV/3/224/3221228183/index.m3u8
 #EXTINF:-1 tvg-id="79" tvg-name="贵州卫视" tvg-logo="https://pic.erw.cc/epglogo/weishi/Guizhou.png" group-title="卫视",贵州卫视
 http://ott.mobaibox.com/PLTV/3/224/3221228136/index.m3u8
 #EXTINF:-1 tvg-id="97" tvg-name="海南卫视" tvg-logo="https://pic.erw.cc/epglogo/weishi/Hainan.png" group-title="卫视",海南卫视
-http://223.110.254.137:6610/cntv/live1/HD-8000k-1080P-lvyoustv/HD-8000k-1080P-lvyoustv
+http://ott.mobaibox.com/PLTV/3/224/3221228139/index.m3u8
 #EXTINF:-1 tvg-id="93" tvg-name="河北卫视" tvg-logo="https://pic.erw.cc/epglogo/weishi/Hebei.png" group-title="卫视",河北卫视
 http://ott.mobaibox.com/PLTV/3/224/3221228106/index.m3u8
 #EXTINF:-1 tvg-id="92" tvg-name="黑龙江卫视" tvg-logo="https://pic.erw.cc/epglogo/weishi/Heilongjiang.png" group-title="卫视",黑龙江卫视
@@ -90,9 +90,9 @@ http://ott.mobaibox.com/PLTV/3/224/3221225842/index.m3u8
 #EXTINF:-1 tvg-id="104" tvg-name="青海卫视" tvg-logo="https://pic.erw.cc/epglogo/weishi/Qinghai.png" group-title="卫视",青海卫视
 http://ott.mobaibox.com/PLTV/3/224/3221227554/index.m3u8
 #EXTINF:-1 tvg-id="102" tvg-name="陕西卫视" tvg-logo="https://pic.erw.cc/epglogo/weishi/Shanxi.png" group-title="卫视",陕西卫视
-http://223.110.241.139:6610/gitv/live1/G_SHANXI/G_SHANXI/
+http://ott.mobaibox.com/PLTV/4/224/3221227022/index.m3u8
 #EXTINF:-1 tvg-id="109" tvg-name="山西卫视" tvg-logo="https://pic.erw.cc/epglogo/weishi/Shanxi_.png" group-title="卫视",山西卫视
-http://118.77.123.203:9901/tsfile/live/0118_1.m3u8?key=txiptv&playlive=1&authid=0
+http://ott.mobaibox.com/PLTV/4/224/3221225786/index.m3u8
 #EXTINF:-1 tvg-id="83" tvg-name="深圳卫视" tvg-logo="https://pic.erw.cc/epglogo/weishi/Shenzhen.png" group-title="卫视",深圳卫视
 http://ott.mobaibox.com/PLTV/3/224/3221227442/index.m3u8
 #EXTINF:-1 tvg-id="78" tvg-name="四川卫视" tvg-logo="https://pic.erw.cc/epglogo/weishi/Sichuan.png" group-title="卫视",四川卫视
