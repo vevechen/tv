@@ -1,0 +1,102 @@
+#EXTM3U x-tvg-url="https://live.fanmingming.com/e.xml"
+
+#EXTINF:-1 ,CCTV1
+http://ott.mobaibox.com/PLTV/3/224/3221225530/index.m3u8
+#EXTINF:-1 ,CCTV2
+http://ott.mobaibox.com/PLTV/3/224/3221227207/index.m3u8
+#EXTINF:-1 ,CCTV3
+http://ott.mobaibox.com/PLTV/3/224/3221225588/index.m3u8
+#EXTINF:-1 ,CCTV4
+http://ott.mobaibox.com/PLTV/3/224/3221225534/index.m3u8
+#EXTINF:-1 ,CCTV5
+http://ott.mobaibox.com/PLTV/3/224/3221227166/index.m3u8
+#EXTINF:-1 ,CCTV5+
+http://ott.mobaibox.com/PLTV/3/224/3221225604/index.m3u8
+#EXTINF:-1 ,CCTV6
+http://ott.mobaibox.com/PLTV/3/224/3221225548/index.m3u8
+#EXTINF:-1 ,CCTV7
+http://ott.mobaibox.com/PLTV/3/224/3221225546/index.m3u8
+#EXTINF:-1 ,CCTV8
+http://ott.mobaibox.com/PLTV/3/224/3221227204/index.m3u8
+#EXTINF:-1 ,CCTV9
+http://ott.mobaibox.com/PLTV/3/224/3221225532/index.m3u8
+#EXTINF:-1 ,CCTV10
+http://ott.mobaibox.com/PLTV/3/224/3221225550/index.m3u8
+#EXTINF:-1 ,CCTV11
+http://ott.mobaibox.com/PLTV/3/224/3221227384/index.m3u8
+#EXTINF:-1 ,CCTV12
+http://ott.mobaibox.com/PLTV/3/224/3221225556/index.m3u8
+#EXTINF:-1 ,CCTV13
+http://ott.mobaibox.com/PLTV/3/224/3221225560/index.m3u8
+#EXTINF:-1 ,CCTV14
+http://ott.mobaibox.com/PLTV/3/224/3221227201/index.m3u8
+#EXTINF:-1 ,CCTV15
+http://ott.mobaibox.com/PLTV/3/224/3221227538/index.m3u8
+#EXTINF:-1 ,CCTV16
+http://ott.mobaibox.com/PLTV/3/224/3221228320/index.m3u8
+#EXTINF:-1 ,CCTV17
+http://ott.mobaibox.com/PLTV/3/224/3221227589/index.m3u8
+#EXTINF:-1 ,CCTV高尔夫网球
+http://ott.mobaibox.com/PLTV/3/224/3221228138/index.m3u8
+#EXTINF:-1 ,CCTV4K
+http://ott.mobaibox.com/PLTV/3/224/3221228228/index.m3u8
+#EXTINF:-1 ,CCTV16-4K
+http://ott.mobaibox.com/PLTV/3/224/3221228314/index.m3u8
+#EXTINF:-1 ,SiTV欢笑剧场
+http://ott.mobaibox.com/PLTV/3/224/3221227715/index.m3u8
+#EXTINF:-1 ,纯享4K
+http://ott.mobaibox.com/PLTV/3/224/3221227506/index.m3u8
+#EXTINF:-1 ,4K修复
+http://ott.mobaibox.com/PLTV/3/224/3221228141/index.m3u8
+#EXTINF:-1 ,东南卫视
+http://ott.mobaibox.com/PLTV/3/224/3221227553/index.m3u8
+#EXTINF:-1 ,东方卫视
+http://ott.mobaibox.com/PLTV/3/224/3221227597/index.m3u8
+#EXTINF:-1 ,云南卫视
+http://ott.mobaibox.com/PLTV/3/224/3221228169/index.m3u8
+#EXTINF:-1 ,北京卫视
+http://ott.mobaibox.com/PLTV/3/224/3221227246/index.m3u8
+#EXTINF:-1 ,吉林卫视
+http://ott.mobaibox.com/PLTV/3/224/3221228130/index.m3u8
+#EXTINF:-1 ,四川卫视
+http://ott.mobaibox.com/PLTV/3/224/3221228171/index.m3u8
+#EXTINF:-1 ,天津卫视
+http://ott.mobaibox.com/PLTV/3/224/3221227212/index.m3u8
+#EXTINF:-1 ,安徽卫视
+http://ott.mobaibox.com/PLTV/3/224/3221225634/index.m3u8
+#EXTINF:-1 ,山东卫视
+http://ott.mobaibox.com/PLTV/3/224/3221227621/index.m3u8
+#EXTINF:-1 ,广东卫视
+http://ott.mobaibox.com/PLTV/3/224/3221227249/index.m3u8
+#EXTINF:-1 ,广西卫视
+http://ott.mobaibox.com/PLTV/3/224/3221228183/index.m3u8
+#EXTINF:-1 ,新疆卫视
+http://ott.mobaibox.com/PLTV/3/224/3221228290/index.m3u8
+#EXTINF:-1 ,江苏卫视
+http://ott.mobaibox.com/PLTV/3/224/3221227255/index.m3u8
+#EXTINF:-1 ,江西卫视
+http://ott.mobaibox.com/PLTV/3/224/3221225536/index.m3u8
+#EXTINF:-1 ,河北卫视
+http://ott.mobaibox.com/PLTV/3/224/3221228106/index.m3u8
+#EXTINF:-1 ,河南卫视
+http://ott.mobaibox.com/PLTV/3/224/3221228221/index.m3u8
+#EXTINF:-1 ,浙江卫视
+http://ott.mobaibox.com/PLTV/3/224/3221227215/index.m3u8
+#EXTINF:-1 ,海南卫视
+http://ott.mobaibox.com/PLTV/3/224/3221228139/index.m3u8
+#EXTINF:-1 ,深圳卫视
+http://ott.mobaibox.com/PLTV/3/224/3221227624/index.m3u8
+#EXTINF:-1 ,湖北卫视
+http://ott.mobaibox.com/PLTV/3/224/3221227211/index.m3u8
+#EXTINF:-1 ,湖南卫视
+http://ott.mobaibox.com/PLTV/3/224/3221227220/index.m3u8
+#EXTINF:-1 ,甘肃卫视
+http://ott.mobaibox.com/PLTV/3/224/3221228166/index.m3u8
+#EXTINF:-1 ,贵州卫视
+http://ott.mobaibox.com/PLTV/3/224/3221228136/index.m3u8
+#EXTINF:-1 ,辽宁卫视
+http://ott.mobaibox.com/PLTV/3/224/3221227380/index.m3u8
+#EXTINF:-1 ,重庆卫视
+http://ott.mobaibox.com/PLTV/3/224/3221227550/index.m3u8
+#EXTINF:-1 ,黑龙江卫视
+http://ott.mobaibox.com/PLTV/3/224/3221227252/index.m3u8
