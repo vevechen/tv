@@ -1,4 +1,4 @@
-#EXTM3U x-tvg-url="https://live.fanmingming.com/e.xml"
+#EXTM3U x-tvg-url="https://epg.ywhj.eu.org/pp.xml"
 
 #EXTINF:-1 ,CCTV1
 http://ott.mobaibox.com/PLTV/3/224/3221225530/index.m3u8
