@@ -42,6 +42,14 @@ http://ott.mobaibox.com/PLTV/3/224/3221228138/index.m3u8
 http://ott.mobaibox.com/PLTV/3/224/3221228228/index.m3u8
 #EXTINF:-1 ,CCTV16-4K
 http://ott.mobaibox.com/PLTV/3/224/3221228314/index.m3u8
+
+#EXTINF:-1 tvg-id="凤凰香港" tvg-name="凤凰香港" group-title="香港",凤凰卫视香港台
+http://ott.mobaibox.com/PLTV/3/224/3221228530/index.m3u8
+#EXTINF:-1 tvg-id="凤凰中文" tvg-name="凤凰中文" group-title="香港",凤凰卫视中文台
+http://ott.mobaibox.com/PLTV/3/224/3221228527/index.m3u8
+#EXTINF:-1 tvg-id="凤凰资讯" tvg-name="凤凰资讯" group-title="香港",凤凰卫视资讯台
+http://ott.mobaibox.com/PLTV/3/224/3221228524/index.m3u8
+
 #EXTINF:-1 ,SiTV欢笑剧场
 http://ott.mobaibox.com/PLTV/3/224/3221227715/index.m3u8
 #EXTINF:-1 ,纯享4K
